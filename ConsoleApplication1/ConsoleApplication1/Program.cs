@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello Welcome to GIT HUB");
             Console.WriteLine("Updated from GIT HUb");
+            Console.ReadLine();
             
         }
     }
