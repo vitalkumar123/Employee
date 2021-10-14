@@ -11,6 +11,7 @@ namespace WebApplication1.Controllers
         public ActionResult Index()
         {
             ViewBag.Test = "sss";
+            ViewBag.QA = "QA";
             return View();
         }
 
